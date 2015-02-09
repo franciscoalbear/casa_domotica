@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Casa_domotica</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="titulo">casa domótica</string>
+    <string name="puertas">Abrir puertas</string>
+    <string name="luz">Encender luces</string>
+    <string name="p_principal">Puerta principal</string>
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="cochera">Cochera</string>
+    <string name="habit1">Habitación 1</string>
+    <string name="habit2">Habitación 2</string>
+    <string name="sala">Sala</string>
+    <string name="cocheral">Cochera</string>
+    <string name="encender">Encender</string>
+    <string name="apagar">Apagar</string>
+
+</resources>
